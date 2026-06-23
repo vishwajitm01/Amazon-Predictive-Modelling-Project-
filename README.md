@@ -13,4 +13,4 @@ The first question, if answered, can help Amazon choose which products to push a
 
 An important note for this investigation is that the accuracy rates of the models were not considered due to the disproportionately high number of non-Best Sellers. Since accuracy could be misleading, sensitivity was used as the metric for success, with the goal of maximizing True Positives.
 
-Team - Vishwajit Mohan Kumar, Christian Cohan, Sienna Amoerese
+Team - Vishwajit Mohan Kumar, Christina Kuleshevic, Ariadnee Ziady, Rebecca Yoder, Gabriela Garcia
