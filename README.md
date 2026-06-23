@@ -12,3 +12,5 @@ The dataset used in this exploration comes from kaggle.com and includes over 40,
 The first question, if answered, can help Amazon choose which products to push and apply certain deals to in order to increase sales and traffic. The second question can help Amazon and sellers on Amazon increase shop efficiency by informing sellers on which products to keep stocked, quantity of supplier reorders and more.
 
 An important note for this investigation is that the accuracy rates of the models were not considered due to the disproportionately high number of non-Best Sellers. Since accuracy could be misleading, sensitivity was used as the metric for success, with the goal of maximizing True Positives.
+
+Team - Vishwajit Mohan Kumar, Christian Cohan, Sienna Amoerese
